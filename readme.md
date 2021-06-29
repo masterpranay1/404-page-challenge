@@ -5,7 +5,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-    This is a solution to the challenge [404 Page on devchallenges](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY)
+This is a solution to the challenge [404 Page on devchallenges](https://devchallenges.io/challengeswBunSb7FPrIepJZAg0sY)
 
 ## Table of Contents 📃
 
